@@ -100,7 +100,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;
         <button class="btn btn-large btn-primary" type="button" >重置</button>
 
-<p align="center" style="padding-top: 15px;">版权所有<a href="http://www.java1234.com" target="_blank">http://www.google.com</a></p>
+<p align="center" style="padding-top: 15px;">版权所有<a href="http://www.java1234.com" target="_blank">他大舅他二舅</a></p>
       </form>
 </div>
 </body>
